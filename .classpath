@@ -2,5 +2,12 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/fontbox-2.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-2.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-tools-2.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/preflight-2.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/xmpbox-2.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/preflight-app-2.0.15.jar"/>
+	<classpathentry kind="lib" path="lib/pdfbox-app-2.0.15.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
